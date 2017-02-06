@@ -1,12 +1,10 @@
 -----------------------------------------------------------------------------------
 -- SolarCast                                                                     --
 -- A Python-based Learning Framework for predicting power conversion efficiency  --
--- of Organic Solar Cells using Molecular Fingerprints                           --
+--                                                                               --
 -- Code written by: Arindam Paul (arindam.paul@eecs.northwestern.edu)            --
 --                                                                               --
-                      --
 -----------------------------------------------------------------------------------
-
 
 --------------------------
 Copyright (c) 2017, Arindam Paul
