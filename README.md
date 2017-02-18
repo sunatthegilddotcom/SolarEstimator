@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------
--- Solarimator                                                                    --
+-- SolarEstimator                                                                    --
 -- A Python-based Learning Framework for predicting power conversion efficiency  --
 --                                                                               --
 -- Code written by: Arindam Paul (arindam.paul@eecs.northwestern.edu)            --
