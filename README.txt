@@ -1,12 +1,24 @@
------------------------------------------------------------------------------------
--- SolarEstimator                                                                    --
--- A Python-based Learning Framework for predicting power conversion efficiency  --
---                                                                               --
--- Code written by: Arindam Paul (arindam.paul@eecs.northwestern.edu)            --
---                                                                               --
------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+ SolarEstimator                                                                    
+ A Python-based Machine Learning Framework for predicting Highest Occupied Molecular 
+ Orbital (HOMO) of donor molecules from molecular formulae using molecular 
+ fingerprints. 
+                                                                              
+   Code written by: Arindam Paul (arindam.paul@eecs.northwestern.edu)                                                                                          
+-------------------------------------------------------------------------------------
 
---------------------------
+Pre-requisites: 
+1. Python 2.7 (or higher) 
+2. Sklearn 0.14 (or higher) 
+3. Rdkit 2012.9 (or higher)  
+4. Numpy 1.4.1 (or higher) 
+
+
+Acknowledgements: 
+This work was performed under the following financial assistance award 70NANB14H012 from U.S. Department of Commerce, National Institute of Standards and Technology as part of the Center for Hierarchical Materials Design (CHiMaD) as primary support. In ad- dition, authors also acknowledge partial support from the following grants: AFOSR award FA9550-12-1-0458; DARPA award N66001- 15-C-4036; NSF award CCF-1409601; DOE awards DE-SC0007456, DE-SC0014330.
+
+
+--------------------------------
 Copyright (c) 2017, Arindam Paul
 All rights reserved.
 
